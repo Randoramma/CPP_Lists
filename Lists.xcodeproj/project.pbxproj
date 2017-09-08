@@ -108,7 +108,7 @@
 				TargetAttributes = {
 					D0CA39051F0D995B009E85DD = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = X7R6377LMS;
+						DevelopmentTeam = QWRJC78833;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -237,16 +237,20 @@
 		D0CA390E1F0D995B009E85DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = X7R6377LMS;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				DEVELOPMENT_TEAM = QWRJC78833;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		D0CA390F1F0D995B009E85DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = X7R6377LMS;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				DEVELOPMENT_TEAM = QWRJC78833;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
